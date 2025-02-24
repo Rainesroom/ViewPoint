@@ -1,5 +1,5 @@
 # About
-This software is <u>open source and free for all.<u>*
+This software is <u>open source and free for all.</u>*
 For more legal info, check the [LICENSE](https://github.com/Rainesroom/ViewPoint/blob/main/LICENSE.md)
 
 # Installation
