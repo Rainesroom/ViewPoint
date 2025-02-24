@@ -9,7 +9,7 @@ def stop_loading_and_open_viewer():
     subprocess.run(["python", "viewer.py"])
 
 root = tk.Tk()
-root.title("ViewPoint")
+root.title("ViewPoint - Launching")
 root.attributes('-fullscreen', True)
 
 label = tk.Label(root, text="ViewPoint", font=("Arial", 48))
