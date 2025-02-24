@@ -1,8 +1,8 @@
 # The Prosperity Public License 3.0.0
 
-Contributor: $name
+Contributor: Raine's Rooms Software
 
-Source Code: $address
+Source Code: https://github.com/Rainesroom/ViewPoint/
 
 ## Purpose
 
