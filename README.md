@@ -1,7 +1,7 @@
 # About
-This software is open source and free for all.*
+This software is open source and free for all.* Built with python, by literal fifth graders it is sure to amaze you.
 
-## Legal
+### Legal
 For more legal info, check the [LICENSE](https://github.com/Rainesroom/ViewPoint/blob/main/LICENSE.md) 
 
 # Installation
