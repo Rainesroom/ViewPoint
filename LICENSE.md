@@ -1,4 +1,5 @@
-# The Prosperity Public License 3.0.0
+# Raine's Rooms Software Noncommercial License
+A branch of the PPL 3.0.0 find it [here](https://prosperitylicense.com/versions/3.0.0)
 
 Contributor: Raine's Rooms Software
 
@@ -6,7 +7,7 @@ Source Code: https://github.com/Rainesroom/ViewPoint/
 
 ## Purpose
 
-This license allows you to use and share this software for noncommercial purposes for free and to try this software for commercial purposes for thirty days.
+This license allows you to use and share this software for noncommercial purposes only. Commercial use is strictly prohibited.
 
 ## Agreement
 
@@ -16,9 +17,8 @@ In order to receive this license, you have to agree to its rules.  Those rules a
 
 Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
 
-## Commercial Trial
-
-Limit your use of this software for commercial purposes to a thirty-day trial period.  If you use this software for work, your company gets one trial period for all personnel, not one trial per person.
+# No Commercial Use
+This software **may not be used for any commercial purposes.** If you use this software for work, business, or for-profit activities, you must obtain explicit permission from mrrainepi5@gmail.com (If we do not respond within a week please contact terpstragraham@gmail.com).
 
 ## Contributions Back
 
