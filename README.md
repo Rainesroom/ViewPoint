@@ -7,4 +7,7 @@ For more legal info, check the [LICENSE](https://github.com/Rainesroom/ViewPoint
 2. Download source code
 3. [Run](https://realpython.com/run-python-scripts/) the load.py file.
 
-*this software *does prohibit commercial use or retailing of any kind.*
+
+
+
+*this software **does prohibit commercial use or retailing of any kind.**
