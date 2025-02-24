@@ -1,5 +1,5 @@
 # About
-This software is [open source and free for all](#Legal). Built with python, by FIFTH GRADERS it is sure to amaze you.
+This software is [open source and free for all](#Legal). Built with python, by fifth graders! It really is a piece of art.
 
 ### Legal
 For more legal info, check the [LICENSE](https://github.com/Rainesroom/ViewPoint/blob/main/LICENSE.md) 
