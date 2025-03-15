@@ -5,5 +5,6 @@ This software is [open source and free for all](#Legal). Built with python, by f
 For more legal info, check the [LICENSE](https://github.com/Rainesroom/ViewPoint/blob/main/LICENSE.md) 
 
 # Installation
-1. Download exe for windows.
-2. Run the executable.
+1. Go [here](https://sites.google.com/loswego.k12.or.us/room12soft/software/alter-net-codes/viewpoint)
+2. Download exe for windows.
+3. Run the executable.
